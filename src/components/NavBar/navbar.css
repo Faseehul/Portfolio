@@ -54,7 +54,7 @@
     border-bottom: 3px solid red;
 }
 .mobMenu{
-    display: none;
+    display: none; 
     object-fit: cover;
     height: 1.8rem;
 
@@ -85,7 +85,7 @@
     .mobMenu{
         display: flex;
     }
-    .desktopmenu{
+    .desktopMenu{
         display: none;
     }
     

@@ -32,7 +32,7 @@ const Navbar = () => {
             onClick={()=>setShowMenu(false)}>Portfolio</Link>
             <Link activeClass='active' to='clients' spy={true} smooth={true} offset={-50} duration={500} className="listItem" 
             onClick={()=>setShowMenu(false)}>Clients</Link>
-            <Link activeClass='active' to='clients' spy={true} smooth={true} offset={-50} duration={500} className="listItem" 
+            <Link activeClass='active' to='contacts' spy={true} smooth={true} offset={-50} duration={500} className="listItem" 
             onClick={()=>setShowMenu(false)}>Contact</Link> 
 
         </div>
